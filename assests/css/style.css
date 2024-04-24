@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'jersey';
+    src: url(/assests/fonts/jersey10-regular-webfont.woff2) format('woff2');
+    src: url(/assests/fonts/jersey10-regular-webfont.woff) format('woff');
+}
+
+
+
+
+h1 {
+    font-family: 'jersey';
+    font-size: 3rem;
+    text-align: center;
+}
